@@ -72,3 +72,5 @@ Heart Girlfriend **depends on Heart**, and is the first application of the "give
 ## 许可证 / License
 
 本项目以 [MIT License](LICENSE) 开源。Licensed under the [MIT License](LICENSE).
+
+> ℹ️ **许可边界**：本项目依赖的 [Heart](https://github.com/zxfpro/heart) 采用 **AGPL-3.0**。若你**直接包含/链接 Heart 的代码**（构成衍生作品），AGPL 的 Copyleft 可能要求本项目/你的应用同样以 AGPL-3.0 开源；若仅作为**独立服务**通过 API 调用 Heart，则可保持 MIT 许可不变。
