@@ -17,6 +17,11 @@ env/
 
 # --- 项目运行时产物 / Runtime artifacts ---
 .ideas/
+执行-*.md
+对话记录.md
+要对你说.md
+bridge.json
+bridge_state.json
 
 # --- Node / JS ---
 node_modules/
